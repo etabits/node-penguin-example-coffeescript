@@ -63,7 +63,7 @@ else # Production!
 
 
 
-penguin = require '../'
+penguin = require 'penguin'
 admin = new penguin.Admin {
 	# Defaults
 

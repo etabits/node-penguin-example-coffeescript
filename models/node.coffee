@@ -1,5 +1,5 @@
 mongoose	= require('mongoose')
-penguin = require '../../'
+penguin = require 'penguin'
 
 schema = mongoose.Schema {
 	title:		{type: String, required: true}
