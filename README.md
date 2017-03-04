@@ -1,5 +1,5 @@
 # node-penguin-example
-An example for `penguin` node module
+An example for [`penguin`](https://github.com/etabits/node-penguin) node module
 
 ```
 git clone https://github.com/etabits/node-penguin-example
